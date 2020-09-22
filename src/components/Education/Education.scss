@@ -1,0 +1,19 @@
+.education {
+    padding: 0,20px;
+}
+
+.education li{
+    display: flex;
+    margin: 15px ,0;
+}
+
+.education li section{
+    width: 100%;
+    margin-left: 60px;
+    background-color: #dddddd;
+    border-bottom: 10px solid #ffffff;
+}
+
+.education section > p{
+    margin: 10px;
+}

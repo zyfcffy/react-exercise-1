@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Education.scss';
 
 class Education extends Component {
   render() {
